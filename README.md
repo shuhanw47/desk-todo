@@ -63,3 +63,7 @@ python todo.pyw --no-autostart
 ## 作者
 
 Shuhan Wang — [GitHub](https://github.com/shuhanw47) · [作品集](https://shuhanw47.github.io)
+
+## License
+
+[MIT](LICENSE)
