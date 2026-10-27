@@ -1,0 +1,7 @@
+# 个人任务数据，不上传
+todos.json
+todos.backup.json
+*.tmp
+
+__pycache__/
+*.pyc
